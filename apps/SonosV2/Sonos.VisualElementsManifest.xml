@@ -2,7 +2,7 @@
     <VisualElements
         BackgroundColor="#d8a158"
         ShowNameOnSquare150x150Logo="off"
-        ForegroundText="light"
-        Square150x150Logo="sonos.png"
-        Square70x70Logo="sonos_small.png"/>
+        ForegroundText="dark"
+        Square150x150Logo="tile.png"
+        Square70x70Logo="tile_small.png"/>
 </Application>

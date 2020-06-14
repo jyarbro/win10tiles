@@ -1,4 +1,4 @@
-# How to install a tile
+# Installation
 
 ### Find the original shortcut file:
 
@@ -55,6 +55,12 @@ This resizing step is necessary to force Windows to update the displayed tile im
 ![How to 6](howto/howto6.png)
 
 ![How to 7](howto/howto7.png)
+
+# Uninstallation
+
+1. Delete the `tile.png`, `tile_small.png`, and `<executable>.VisualElementsManifest.xml` files from the application folder.
+1. Rename the shortcut to update it.
+1. Resize the shortcut to rebuild the images.
 
 # License, sponsorship, officialness, support
 

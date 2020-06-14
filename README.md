@@ -1,3 +1,7 @@
+# What is this?
+
+We've had the ability for applications to have fancy tiles in Windows since 2012, but most app makers completely fail to take advantage of this opportunity for branding. I got tired of seeing my start menu filled with Windows 95 style icons mixed in with a few fancy tiles, so I started creating custom tiles and decided to share them here.
+
 # Installation
 
 ### Find the original shortcut file:

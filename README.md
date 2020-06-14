@@ -18,7 +18,7 @@ Every logo in this library is owned by the respective trademark holder. I have r
 
 Where possible, I stayed true to the branding. When an application or website has a specific color pallete, I attempt to use that.
 
-If you are a trademark holder or application owner for one of these applications, and disapprove of the tiles I've created for your application, please submit an issue to this repository, email me<sup>[[1]](#footnotes), or a pull request with updated tile images you'd prefer.
+If you are a trademark holder or application owner for one of these applications, and disapprove of the tiles I've created for your application, please submit an issue to this repository, email me<sup>[[1]](#footnotes)</sup>, or a pull request with updated tile images you'd prefer.
 
 Anything that isn't owned or trademarked by someone else is licensed to you by me under the [UNLICENSE](UNLICENSE).
 

@@ -62,4 +62,4 @@ Every logo in this library is owned by the respective trademark holder. I have r
 
 If you are a trademark holder or application owner for one of these applications, and disapprove of the tiles I've created for your application, please submit an issue to this repository, or a pull request with updated tile images you'd prefer.
 
-Anything that isn't owned or trademarked by someone else is licensed to you by me under the Unlicense.
+Anything that isn't owned or trademarked by someone else is licensed to you by me under the [UNLICENSE](UNLICENSE).

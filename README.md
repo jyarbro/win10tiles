@@ -7,6 +7,7 @@ We've had the ability for applications to have fancy tiles in Windows since 2012
 - [Installation](https://github.com/jyarbro/win10tiles/wiki/Installation)
 - [Uninstallation](https://github.com/jyarbro/win10tiles/wiki/Uninstallation)
 - [Customizing tile colors](https://github.com/jyarbro/win10tiles/wiki/Customizing-Tile-Colors)
+- [Updating the Windows tile database](https://github.com/jyarbro/win10tiles/wiki/Updating)
 
 # Requesting tiles
 
